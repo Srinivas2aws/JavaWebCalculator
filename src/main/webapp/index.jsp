@@ -21,16 +21,6 @@
 <label>
 <input type="radio" name="r2" value="sub" />subtraction 
 <br />
-<<<<<<< HEAD
-</label>
-<label>
-<input type="radio" name="r3" value="prod" />product
-<br />
-</label>
-
- 
-=======
->>>>>>> qa
 </div>
 <input type="submit" value="submit" />
 </form>
